@@ -1,2 +1,2 @@
-import './01_函数'
+import './01_泛型'
 document.write('Hello Webpack TS!')
